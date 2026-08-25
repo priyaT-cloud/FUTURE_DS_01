@@ -2,7 +2,7 @@
 
 **Future Interns — Data Science & Analytics Internship, Task 1**
 
-![Dashboard](charts/Task1_Dashboard.png)
+![Dashboard](Task1_Dashboard.png)
 
 ## Objective
 Analyze business sales data to identify revenue trends, top-selling products, high-value
